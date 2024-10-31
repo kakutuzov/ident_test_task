@@ -1,0 +1,11 @@
+ASP/bin
+ASP/obj
+ASP/.vs
+
+ASP.Tests/bin
+ASP.Tests/obj
+ASP.Tests/.vs
+
+DotNet/bin
+DotNet/obj
+DotNet/.vs
