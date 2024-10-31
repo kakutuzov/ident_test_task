@@ -1,6 +1,7 @@
 ASP/bin
 ASP/obj
 ASP/.vs
+ASP/TestResults
 
 ASP.Tests/bin
 ASP.Tests/obj
